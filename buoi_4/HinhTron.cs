@@ -51,7 +51,7 @@ namespace buoi_4
         }
         public void xuat ()
         {
-            Console.WriteLine("Hinh tron tam O voi ban kinh {0}", _BanKinh);
+            Console.WriteLine(" voi ban kinh {0}", _BanKinh);
             Console.WriteLine("Chu vi hinh tron la: {0}", tinhChuVi());
             Console.WriteLine("Dien tich hinh tron la: {0}", tinhDienTich());
         }

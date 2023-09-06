@@ -15,6 +15,7 @@ namespace buoi_4
             HinhTron hinhTron = new HinhTron();
             toaDo.nhap();
             hinhTron.nhap();
+            toaDo.xuat();
             hinhTron.xuat();
             Console.ReadLine();
         }

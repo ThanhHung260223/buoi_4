@@ -42,5 +42,9 @@ namespace buoi_4
             y= double.Parse(Console.ReadLine());
             
         }
+        public void xuat()
+        {
+            Console.Write("Tam O({0},{1})", x,y);
+        }
     }
 }
